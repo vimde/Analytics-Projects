@@ -1,8 +1,3 @@
-# Analytics-Projects
-Data analysis - The Analytics Edge, includes a wide variety of datasets
-
-Source: The Analytics Edge
-
 ## An Analytical Detective
 
 Crime is an international concern, but it is documented and handled in very different ways in different countries. In the United States, violent crimes and property crimes are recorded by the Federal Bureau of Investigation (FBI).  Additionally, each city documents crime, and some cities release data regarding crime rates. The city of Chicago, Illinois releases crime data from 2001 onward online.
@@ -60,3 +55,5 @@ The observations in the dataset represent people surveyed in the September 2013 
 * Citizenship: The United States citizenship status of the interviewee.
 * EmploymentStatus: The status of employment of the interviewee.
 * Industry: The industry of employment of the interviewee (only available if they are employed).
+
+Source: The Analytics Edge
